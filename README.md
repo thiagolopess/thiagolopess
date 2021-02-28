@@ -15,11 +15,6 @@
 <hr/>
 </div>
 
-
-
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/> </p>
-<hr/>
-
 <!--START_SECTION:waka-->
 ```text
 C        6 hrs 33 mins   ██████████████████████░░░   87.48 % 
@@ -30,4 +25,4 @@ Bash     1 min           ░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<hr/>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/> </p>
