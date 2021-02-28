@@ -30,5 +30,9 @@ Bash     1 min           ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </div>
 
-|   <img src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/>     |       [![Spotify](https://novatorem-thiagolopess.vercel.app/api/spotify)](https://open.spotify.com/user/g1kmtmtgtz5zrd1qg68jrpbdt)     |
-| :-------------: | :-------------: |
+<table cellpadding="0" cellspacing="0" border="0">
+  <tr style="border: 0">
+    <td style="border: 0"><img src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/></td>
+    <td style="border: 0"><a href="https://open.spotify.com/user/g1kmtmtgtz5zrd1qg68jrpbdt"><img src="https://novatorem-thiagolopess.vercel.app/api/spotify"/></a></td>
+  </tr>
+</table>
