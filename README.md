@@ -15,7 +15,9 @@
 <hr/>
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/>
+<div>
+ 
+
 
 <!--START_SECTION:waka-->
 ```text
@@ -26,5 +28,8 @@ YAML     6 mins          ▒░░░░░░░░░░░░░░░░░�
 Bash     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
+</div>
 
+[![Spotify](https://novatorem-thiagolopess.vercel.app/api/spotify)](https://open.spotify.com/user/g1kmtmtgtz5zrd1qg68jrpbdt)
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/></p>
