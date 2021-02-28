@@ -30,6 +30,8 @@ Bash     1 min           ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </div>
 
+<div>
 [![Spotify](https://novatorem-thiagolopess.vercel.app/api/spotify)](https://open.spotify.com/user/g1kmtmtgtz5zrd1qg68jrpbdt)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/>
+</div>
