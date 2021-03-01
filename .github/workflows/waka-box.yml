@@ -1,0 +1,4 @@
+- name: waka-box
+  # You may pin to the exact commit or the version.
+  # uses: matchai/waka-box@4cbedd0fe38af5c3a475a38240866563896034a2
+  uses: matchai/waka-box@v4.0.5
