@@ -15,13 +15,12 @@
 <hr/>
 </div>
 
-<div style="width:200px; float:right;">
-  <img src="https://wakatime.com/share/@thiagolopes/2700cb4a-2be3-45fb-b45d-7b5cd35696ce.png" width="500" height="375" text-align="right"/>
-</div>
-
 <table cellpadding="0" cellspacing="0" border="0">
   <tr style="border: 0">
     <td style="border: 0"><img src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/></td>
     <td style="border: 0"><a href="https://open.spotify.com/user/g1kmtmtgtz5zrd1qg68jrpbdt"><img src="https://novatorem-thiagolopess.vercel.app/api/spotify"/></a></td>
+  </tr>
+  <tr style="border: 0">
+    <td colspan="2" align="middle" > <img src="https://wakatime.com/share/@thiagolopes/2700cb4a-2be3-45fb-b45d-7b5cd35696ce.png" width="600" height="450"/></td>
   </tr>
 </table>
