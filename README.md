@@ -15,19 +15,8 @@
 <hr/>
 </div>
 
-<div>
- 
-
-
-<!--START_SECTION:waka-->
-```text
-C        6 hrs 33 mins   ██████████████████████░░░   87.48 % 
-Text     37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Python   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-YAML     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Bash     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-<!--END_SECTION:waka-->
+<div style="width:200px; float:right;">
+  <img src="https://wakatime.com/share/@thiagolopes/2700cb4a-2be3-45fb-b45d-7b5cd35696ce.png" width="500" height="375" text-align="right"/>
 </div>
 
 <table cellpadding="0" cellspacing="0" border="0">
