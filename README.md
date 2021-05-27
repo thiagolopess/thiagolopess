@@ -8,7 +8,7 @@
 
 - 👨‍💻 You can call me Thiago!
 - 📒 I’m currently studying at [UnB](https://unb.br)
-- 🌱 I’m currently learning about Software Architecture and Design and a lot more cool stuff!
+- 🌱 I’m currently on vacation!
 - 💬 Ask me about anything!
 - 📫 Reach me at: thiago.lopes.santos.tls@gmail.com
 - 😄 Pronouns: he/him
