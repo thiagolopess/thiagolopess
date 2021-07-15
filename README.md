@@ -15,6 +15,7 @@
 <hr/>
 </div>
 
+<!--
 <table cellpadding="0" cellspacing="0" border="0">
   <tr style="border: 0">
     <td style="border: 0"><img src="https://github-readme-stats.vercel.app/api?username=thiagolopess"/></td>
@@ -24,3 +25,4 @@
     <td colspan="2" align="middle" > <img src="https://wakatime.com/share/@thiagolopes/2700cb4a-2be3-45fb-b45d-7b5cd35696ce.png" width="600" height="450"/></td>
   </tr>
 </table>
+-->
