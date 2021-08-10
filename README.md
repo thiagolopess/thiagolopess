@@ -3,13 +3,11 @@
 **thiagolopess/thiagolopess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
   
-<div>
 - 👨‍💻 You can call me Thiago!
 - 📒 I’m currently studying at [UnB](https://unb.br)
 - 📫 Reach me at: thiago.lopes.santos.tls@gmail.com
 - 😄 Pronouns: he/him
-<hr/>
-</div>
+
 
 <!--
 <table cellpadding="0" cellspacing="0" border="0">
