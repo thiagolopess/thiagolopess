@@ -4,12 +4,8 @@
 -->
   
 <div>
-<img align="right" alt="GIF" src="assets/think_plan_execute.gif" width="270" height="190"/>
-
 - 👨‍💻 You can call me Thiago!
 - 📒 I’m currently studying at [UnB](https://unb.br)
-- 🌱 I’m currently on vacation!
-- 💬 Ask me about anything!
 - 📫 Reach me at: thiago.lopes.santos.tls@gmail.com
 - 😄 Pronouns: he/him
 <hr/>
